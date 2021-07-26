@@ -1,2 +1,2 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "", "formregister");
+$conn = mysqli_connect("127.0.0.1", "root", "root", "rest_server");
